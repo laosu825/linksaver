@@ -1,1 +1,1 @@
-{"versionCode": 11, "versionName": "1.4.6", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.4.6/LinkSaver-v1.4.6.apk", "note": "v1.4.6 修复悬浮球无法从右拖到左：改为左上角绝对坐标+屏幕内安全边距"}
+{"versionCode": 12, "versionName": "1.4.7", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.4.7/LinkSaver-v1.4.7.apk", "note": "v1.4.7 批量下载按钮反馈优化（缩短按钮、加提示）；悬浮球拖到屏幕边缘自动隐藏一半，点击滑出"}
