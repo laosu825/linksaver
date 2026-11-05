@@ -1,1 +1,1 @@
-{"versionCode": 12, "versionName": "1.4.7", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.4.7/LinkSaver-v1.4.7.apk", "note": "v1.4.7 批量下载按钮反馈优化（缩短按钮、加提示）；悬浮球拖到屏幕边缘自动隐藏一半，点击滑出"}
+{"versionCode": 13, "versionName": "1.4.8", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.4.8/LinkSaver-v1.4.8.apk", "note": "v1.4.8 修复单击标题栏被误收纳成透明小条；悬浮球与面板/收纳条互斥，只显示一个"}
