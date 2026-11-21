@@ -1,1 +1,1 @@
-{"versionCode": 15, "versionName": "1.5.0", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.5.0/LinkSaver-v1.5.0.apk", "note": "v1.5.0 修复输入框点不开键盘、无法长按/输入法剪切板粘贴的问题；粘贴链接后即可正常解析"}
+{"versionCode": 16, "versionName": "1.5.1", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.5.1/LinkSaver-v1.5.1.apk", "note": "v1.5.1 解析不再长时间卡「解析中」：优先走可达镜像、超时缩短、失败明确提示（推文不存在/受限/网络不通）"}
