@@ -1,1 +1,1 @@
-{"versionCode": 14, "versionName": "1.4.9", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.4.9/LinkSaver-v1.4.9.apk", "note": "v1.4.9 面板内容支持上下滚动，识别多张图片时可滑动查看全部，无需放大面板"}
+{"versionCode": 15, "versionName": "1.5.0", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.5.0/LinkSaver-v1.5.0.apk", "note": "v1.5.0 修复输入框点不开键盘、无法长按/输入法剪切板粘贴的问题；粘贴链接后即可正常解析"}
