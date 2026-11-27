@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.9.0/YuNiToolbox-v1.9.0.apk",
-  "note": "工具箱只留一个「全能解析」入口：推特/纸飞机/抖音/小红书一条链接直接解析，结果带预览图；返回键回工具箱首页；勾选几张就批量下载几张；安装包名与软件同名。"
+  "versionCode": 22,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.9.1/YuNiToolbox-v1.9.1.apk",
+  "note": "小红书支持手机端复制出来的短链：自动展开后直接读笔记本身的数据，图片按原始尺寸下载（不再是被压缩的预览图），视频取各档码率里最清晰的一档；抖音/推特同样保留原图原视频。"
 }
