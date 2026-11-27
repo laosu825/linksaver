@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.11.6",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.6/YuNiToolbox-v1.11.6.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/iBeTOcBMAp",
-  "apkSize": 5758731,
-  "note": "修复开始下载就闪退（进度文案格式符异常）；下载完成后不再自动跳安装器，改为点卡片安装。"
+  "versionCode": 31,
+  "versionName": "1.11.7",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.7/YuNiToolbox-v1.11.7.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/VQX9HLuDW2",
+  "apkSize": 5700640,
+  "note": "去掉下载密码与二次确认，勾选后点批量下载直接保存。"
 }
