@@ -2,6 +2,7 @@
   "versionCode": 26,
   "versionName": "1.11.2",
   "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.2/YuNiToolbox-v1.11.2.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/AlMc3t78Xb",
-  "note": "检查更新支持进度显示；下载优先走高速地址，失败自动回退；已下载的安装包会被识别，直接安装。"
+  "apkUrlFast": "https://aka.doubaocdn.com/s/3zyTT794MV",
+  "apkSize": 5747501,
+  "note": "检查更新支持进度显示；优先走高速地址，失败自动回退；已下载的安装包会被识别，直接安装。"
 }
