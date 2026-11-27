@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.11.3",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.3/YuNiToolbox-v1.11.3.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/BsmX6O5KJt",
-  "apkSize": 5696288,
-  "note": "预览改为点图直接看；缩略图小图化并缓存；小红书解析失败会显示具体原因便于定位。"
+  "versionCode": 28,
+  "versionName": "1.11.4",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.4/YuNiToolbox-v1.11.4.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/0zeKUJ2Kwn",
+  "apkSize": 5696632,
+  "note": "修复小红书短链被重定向到登录页导致解析失败；视频笔记能取到原画质视频。"
 }
