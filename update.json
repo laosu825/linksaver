@@ -1,1 +1,1 @@
-{"versionCode": 19, "versionName": "1.7.0", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.7.0/LinkSaver-v1.7.0.apk", "note": "v1.7.0 工具箱加入抖音（原生解析视频/图集）与小红书（第三方网页解析）"}
+{"versionCode": 20, "versionName": "1.8.0", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.8.0/LinkSaver-v1.8.0.apk", "note": "v1.8.0 抖音/小红书改为面板内直接解析（小红书需免费接口 id/key，可在主界面填写）；修复工具页返回键无法回到工具箱"}
