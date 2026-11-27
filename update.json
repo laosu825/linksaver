@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.10.0",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.10.0/YuNiToolbox-v1.10.0.apk",
-  "note": "推特/纸飞机/抖音/小红书可以各自指定保存相册，选一次长期生效；移除了网络代理设置；检查更新挪到工具箱首页，点一下就能查、有新版直接下载覆盖安装。"
+  "versionCode": 24,
+  "versionName": "1.11.0",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.0/YuNiToolbox-v1.11.0.apk",
+  "note": "抖音与小红书解析加固：抖音带安卓 UA 与来源页并自动重试，小红书既读笔记数据也做页面兜底抓取，下载时带图床要求的来源头；输入框提示已覆盖推特/纸飞机/抖音/小红书；批量下载需再点一次「确认下载」，可设并随时修改下载密码。"
 }
