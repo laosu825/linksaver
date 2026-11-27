@@ -1,1 +1,6 @@
-{"versionCode": 20, "versionName": "1.8.0", "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.8.0/LinkSaver-v1.8.0.apk", "note": "v1.8.0 抖音/小红书改为面板内直接解析（小红书需免费接口 id/key，可在主界面填写）；修复工具页返回键无法回到工具箱"}
+{
+  "versionCode": 21,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.9.0/%E4%B8%8E%E4%BD%A0%E5%B7%A5%E5%85%B7%E7%AE%B1-v1.9.0.apk",
+  "notes": "工具箱只留一个「全能解析」入口，推特/纸飞机/抖音/小红书一条链接直解；解析结果带预览图；返回键回工具箱；勾选几张就能批量下载几张；安装包与软件同名。"
+}
