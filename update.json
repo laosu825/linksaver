@@ -1,8 +1,8 @@
 {
   "versionCode": 35,
-  "versionName": "1.13.0",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.13.0/YuNiToolbox-v1.13.0.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/lq6M8mtOu7",
-  "apkSize": 5710284,
-  "note": "小红书图片去水印；新增视频号识别与独立相册。"
+  "versionName": "1.12.2",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.12.2/YuNiToolbox-v1.12.2.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/Ne4sWV7ZkQ",
+  "apkSize": 5710596,
+  "note": "小红书视频改取无水印原片，图片保持原图像素。"
 }
