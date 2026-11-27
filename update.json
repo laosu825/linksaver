@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "1.12.0",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.12.0/YuNiToolbox-v1.12.0.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/2rqvuSZw7a",
-  "apkSize": 5706924,
-  "note": "抖音图集里的动图能下成视频；图集先出图片，动图视频抓到后自动补到列表最前。"
+  "versionCode": 34,
+  "versionName": "1.12.1",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.12.1/YuNiToolbox-v1.12.1.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/BMpk6479x2",
+  "apkSize": 5717878,
+  "note": "平台名改回推特 / 纸飞机；动图视频去重，同一段视频只出现一次。"
 }
