@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.12.2",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.12.2/YuNiToolbox-v1.12.2.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/Ne4sWV7ZkQ",
-  "apkSize": 5710596,
-  "note": "小红书视频改取无水印原片，图片保持原图像素。"
+  "versionCode": 36,
+  "versionName": "1.12.3",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.12.3/YuNiToolbox-v1.12.3.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/jPfVoJKr0M",
+  "apkSize": 5708244,
+  "note": "下线视频号，只保留推特 / 纸飞机 / 抖音 / 小红书四个来源。"
 }
