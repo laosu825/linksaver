@@ -1,8 +1,8 @@
 {
   "versionCode": 32,
-  "versionName": "1.11.8",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.8/YuNiToolbox-v1.11.8.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/An2TEwUpH7",
-  "apkSize": 5701832,
-  "note": "分享视频/动图文件给本应用即可直接存进抖音图册。"
+  "versionName": "1.12.0",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.12.0/YuNiToolbox-v1.12.0.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/74TxKr5lqN",
+  "apkSize": 5706920,
+  "note": "抖音图集里的动图现在能下成视频；图集先出图片，动图视频抓到后自动补到最前面。"
 }
