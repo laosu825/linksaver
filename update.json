@@ -1,6 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.11.1",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.1/YuNiToolbox-v1.11.1.apk",
-  "note": "大视频改成边下边写，不再把整个文件读进内存，几十上百 MB 也不会闪退；预览图按来源补请求头并失败重试，抖音/小红书的缩略图能正常显示；下载失败的原因会直接写在面板上。"
+  "versionCode": 26,
+  "versionName": "1.11.2",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.11.2/YuNiToolbox-v1.11.2.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/AlMc3t78Xb",
+  "note": "检查更新支持进度显示；下载优先走高速地址，失败自动回退；已下载的安装包会被识别，直接安装。"
 }
