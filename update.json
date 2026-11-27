@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "1.12.1",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.12.1/YuNiToolbox-v1.12.1.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/BMpk6479x2",
-  "apkSize": 5717878,
-  "note": "平台名改回推特 / 纸飞机；动图视频去重，同一段视频只出现一次。"
+  "versionCode": 35,
+  "versionName": "1.13.0",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.13.0/YuNiToolbox-v1.13.0.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/lq6M8mtOu7",
+  "apkSize": 5710284,
+  "note": "小红书图片去水印；新增视频号识别与独立相册。"
 }
