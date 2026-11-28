@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "1.13.1",
-  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.13.1/YuNiToolbox-v1.13.1.apk",
-  "apkUrlFast": "https://aka.doubaocdn.com/s/2NWLDFdBBP",
-  "apkSize": 5716880,
-  "note": "安装包位置可设置：双击检查更新卡，选文件夹或恢复默认。"
+  "versionCode": 39,
+  "versionName": "1.13.2",
+  "apkUrl": "https://github.com/laosu825/linksaver/releases/download/v1.13.2/YuNiToolbox-v1.13.2.apk",
+  "apkUrlFast": "https://aka.doubaocdn.com/s/5bYodMmbA5",
+  "apkSize": 5720060,
+  "note": "启动自动检查更新；暂不更新只跳过当前版本。"
 }
